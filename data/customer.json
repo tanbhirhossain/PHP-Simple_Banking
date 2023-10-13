@@ -1,0 +1,17 @@
+[
+    {
+        "name": "TANBHIR HOSSAIN",
+        "email": "TEST@TEST.COM",
+        "password": "$2y$10$bLG13boTW6JBZJs61Twm6u5bMnXu0qLogaCUhDf\/O4ITZ1uUE.xXe"
+    },
+    {
+        "name": "tanbhir hossain",
+        "email": "test2@test.com",
+        "password": "$2y$10$ckkkA4JfwgWA2cn5aQartO2ylXWrUzteQ86jXDQWjChjwa1LuzJlS"
+    },
+    {
+        "name": "TEST 3",
+        "email": "test3@test.com",
+        "password": "$2y$10$LixhPb6HGug7f2zn1IRD\/.l\/oq.EjVqWmlQW161pYEjy8gj3nP3ZS"
+    }
+]
